@@ -45,7 +45,3 @@ export default defineComponent({
     }
   },
 })
-// yarn add monaco-editor -D
-
-//yarn add vue-jss -S
-// yarn add jss-preset-default -S
